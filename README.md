@@ -14,6 +14,15 @@ PM2Cyber is a self-driven learning platform that integrates cybersecurity princi
 - **Learning Pathways**: Follow curated modules to build cybersecurity skills progressively, covering areas such as risk management, threat detection, and incident response.
 - **Documentation of Progress**: Track completed projects and record insights to showcase skill development and growth in cybersecurity.
 
+## Getting Started
+To get started with PM2Cyber, you’ll need to ensure that the following prerequisites are met:
+
+### Prerequisites
+- **Node.js** and **npm** installed on your machine.
+- **MongoDB** setup if database functionality is required.
+
+Once prerequisites are met, follow the **Installation Instructions** to set up the project locally.
+
 ## Installation Instructions
 1. Clone this repository: `git clone https://github.com/PmCyber85/PM2Cyber.git`
 2. Navigate to the project folder: `cd PM2Cyber`
@@ -67,6 +76,15 @@ PM2Cyber is an open and collaborative platform, welcoming contributions from any
 - **Feedback and Testing**: Provide constructive feedback and test new features to ensure quality and usability.
 
 If you’re interested in contributing, please feel free to submit a pull request or reach out via the Issues section. Your insights and expertise can help shape PM2Cyber into a valuable resource for learners worldwide.
-```
 
-Just copy and paste this into your README file editor on GitHub. Let me know if there’s anything else you need!
+## Contributing
+PM2Cyber welcomes contributions! To get started, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make and commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request and describe your changes.
+
+Feel free to open issues for any bugs or feature suggestions.
+
