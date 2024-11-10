@@ -7,6 +7,11 @@ I am in the early stages of learning in this domain, so please consider this as 
 ## Project Overview
 PM2Cyber is a self-driven learning platform that integrates cybersecurity principles into project management skills. It’s designed to guide my transition from project management into cybersecurity, providing a structured environment to develop core competencies across the cybersecurity domain. This repository serves as both a personal portfolio and a learning tool, allowing me—and anyone interested—to explore hands-on projects that bridge project management fundamentals with essential cybersecurity skills, creating a pathway for career development in cybersecurity.
 
+## Projects
+
+- [SIEM Project](./SIEM_Project/README.md): A hands-on SIEM setup to practice log collection, analysis, and alerting in a cybersecurity context.
+- Other projects...
+
 ## Features
 - **Task and Deadline Management**: Organize learning objectives and project milestones effectively.
 - **User Access Controls**: Implement role-based permissions to practice secure access management.
